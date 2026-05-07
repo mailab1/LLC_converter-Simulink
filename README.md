@@ -5,5 +5,5 @@ For a detailed step-by-step design guide, parameter calculations, and simulation
 
 [Watch the Video](https://www.youtube.com/watch?v=VRpf5iZ1Z1I)
 
-* **Soft-Switching Topology:** Implements Zero Voltage Switching (ZVS) for primary MOSFETs and Zero Current Switching (ZCS) for secondary rectifier diodes.
+Also it presents **Soft-Switching :** and Implements Zero Voltage Switching (ZVS) for primary MOSFETs.
 
